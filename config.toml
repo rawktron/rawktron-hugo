@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "rawktron.com"
   copyright = "&copy;2017 Pete Garcin"
   sidebarAbout = [
-    "Pete Garcin. Developer Advocate @ActiveState. Long time games industry vet, audio director, musician, writer.",
+    "Pete Garcin. Senior Product Manager @ActiveState. Long time games industry vet, audio director, musician, writer.",
     "You can find my projects and writing here."
   ]
   # Contact page
