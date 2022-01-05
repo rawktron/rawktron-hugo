@@ -7,4 +7,4 @@ title = "go-ansi"
 
 +++
 
-go-ansi is a CLI and library that takes ANSi BBS art files and converts them to PNG/bitmaps. I used this to drive the art in [Go Man's Sky](/gomanssky).
+go-ansi is a CLI and library that takes ANSi BBS art files and converts them to PNG/bitmaps. I used this to drive the art in [Go Man's Sky](/portfolio/gomanssky).
