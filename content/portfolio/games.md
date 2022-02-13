@@ -7,3 +7,5 @@ title = "Game Portfolio"
 +++
 
 A selection of cover art of the various games I've worked on over my career.
+
+![Games I've shipped](Games.png "Games Shipped")
