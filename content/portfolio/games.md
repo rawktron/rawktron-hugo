@@ -8,4 +8,4 @@ title = "Game Portfolio"
 
 A selection of cover art of the various games I've worked on over my career.
 
-![Games I've shipped](/static/img/Games.jpg)
+![Games I've shipped](/img/Games.jpg)
