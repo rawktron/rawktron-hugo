@@ -12,9 +12,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "rawktron.com"
-  copyright = "&copy;2022 Pete Garcin"
+  copyright = "&copy;2025 Pete Garcin"
   sidebarAbout = [
-    "Pete Garcin. Director of Product @ActiveState. Long time games industry vet, audio director, musician, writer.",
+    "Pete Garcin. Group Lead - TPM @Jobber. Long time games industry vet, audio director, musician, writer.",
     "You can find some of my projects and writing here."
   ]
   # Contact page
@@ -48,6 +48,5 @@ googleAnalytics = ""
 #  email         = "email@example.com"
   twitter       = "https://twitter.com/rawktron"
   github        = "https://github.com/rawktron"
-  stackoverflow = "http://stackoverflow.com/users/7753940/rawktron"
   instagram     = "https://www.instagram.com/rawktron/"
   linkedin      = "https://www.linkedin.com/in/petegarcin/"
